@@ -1,2 +1,3 @@
-# sdmp2023
-Demos for SDMP course
+# HelloWorld example
+
+This is a demo for the SDMP2023 course.
